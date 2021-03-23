@@ -1,3 +1,4 @@
 Ini adalah Uji Coba Git untuk belajar :
 1. Belajar Github
 2. Belajar Git
+3. belajar Push dan Pull
