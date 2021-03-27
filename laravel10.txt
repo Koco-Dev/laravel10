@@ -4,3 +4,4 @@ Ini adalah Uji Coba Git untuk belajar :
 3. Belajar Blog
 4. Belajar HTML
 5. Fitur WIP
+6. Fitur WIP2
